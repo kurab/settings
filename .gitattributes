@@ -2,3 +2,4 @@ config.yml filter=openssl diff=openssl
 config*.yml filter=openssl diff=openssl
 env.yml filter=openssl diff=openssl
 directory/* filter=openssl diff=openssl
+directory/subdirectory2/* filter=openssl diff=openssl
